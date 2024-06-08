@@ -1,5 +1,7 @@
 # FAQ
 
+ABOUT THE PROJECT
+
 Create a website with the following requirements:
 
 Aside with 5 sections
@@ -10,4 +12,8 @@ CSS
 JavaScript
 Desarrollo web Back-end
 
+Built with:
+
+HTML
+CSS
 
