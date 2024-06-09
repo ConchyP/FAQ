@@ -10,5 +10,6 @@ CSS
 JavaScript
 Desarrollo web Back-end
 
-![image](https://github.com/ConchyP/FAQ/assets/169025186/e902a9fd-ef17-40f6-bcc0-33208166c786)
+![image](https://github.com/ConchyP/FAQ/assets/169025186/966e20f0-b27c-4ce8-bc4b-249158d24523)
+
 
